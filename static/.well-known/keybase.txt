@@ -1,0 +1,50 @@
+I hereby claim:
+
+  * I am an admin of https://33rd.dev
+  * I am sitting33 (https://keybase.io/sitting33) on keybase.
+  * I have a public key ASDJmuChL1ooxO61cPTBmudJ6XJXzrdC1R9NQuW8j4w_kQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202d4cc9ae93aa81b9f279f54bec2acbeebdf9f660b7d89f7d4bda281d684c30490a",
+      "host": "keybase.io",
+      "kid": "0120c99ae0a12f5a28c4eeb570f4c19ae749e97257ceb742d51f4d42e5bc8f8c3f910a",
+      "uid": "a5ac99018abe3f1f8b0938326e333419",
+      "username": "sitting33"
+    },
+    "merkle_root": {
+      "ctime": 1658831614,
+      "hash": "5b38cea93be4c4ef8a40d9af6c80f98b34d9ea10a738303ab2d03a1e056469a09efac054e7ae3f56278d9cb91835d2746dc166746a2fe37bada3ec2e4134a900",
+      "hash_meta": "904e0315a7d23b4c123c4d1f031face95a0ae7bda5a7affba7f6f198d992b1ef",
+      "seqno": 22913218
+    },
+    "service": {
+      "entropy": "walR4Pz50zYt4U9X08SoRIaR",
+      "hostname": "33rd.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1658831618,
+  "expire_in": 504576000,
+  "prev": "cdfd7261e02084fed8c6ef6714a9c2ca0f12407d1025d65d8e4a8deef9ccd89c",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyZrgoS9aKMTutXD0wZrnSelyV863QtUfTULlvI+MP5EKp3BheWxvYWTESpcCOMQgzf1yYeAghP7Yxu9nFKnCyg8SQH0QJdZdjkqN7vnM2JzEIPvQ+raucAx9tI135l95Gu2Z5l6wAF5bMW36o0YMLLaOAgHCo3NpZ8RARVbrlLQzn9yE4o7ofssbIxdtTUOzdYEpXnXykfcz4iRL2NeZm4UbMHtiSrLDjxzHQV39pS3neQB0FEeJn9WCDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFYK+Fm6qmMl1o+pN1SrnnK5LMbQR4YYUiIwzqX/GqiCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sitting33
